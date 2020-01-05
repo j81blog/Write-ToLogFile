@@ -187,7 +187,7 @@ NOTES
 
     -------------------------- EXAMPLE 1 --------------------------
 
-    PS C:\>Write-ToLogFile
+    PS C:\>Write-ToLogFile "Add this line to a log file"
 
 
 RELATED LINKS
