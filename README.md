@@ -1,6 +1,7 @@
 # Write-ToLogFile
 PowerShell Function to write message to a log file
 
+```powershell
 NAME
     Write-ToLogFile.ps1
 
@@ -179,7 +180,6 @@ OUTPUTS
 
 NOTES
 
-
         Function Name : Write-ToLogFile
         Version       : v0.1
         Author        : John Billekens
@@ -190,12 +190,9 @@ NOTES
     PS C:\>Write-ToLogFile
 
 
-
-
-
-
-
 RELATED LINKS
     https://blog.j81.nl
 
     requires -version 5.1
+
+```
