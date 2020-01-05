@@ -11,16 +11,20 @@ SYNOPSIS
 
 SYNTAX
     Write-ToLogFile.ps1 [-Message] <String[]> [-I] [-Component <String>] [-NoDate] [-DateFormat <String>] 
-	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] [<CommonParameters>]
+	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] 
+	[<CommonParameters>]
 
     Write-ToLogFile.ps1 [-Message] <String[]> [-D] [-Component <String>] [-NoDate] [-DateFormat <String>] 
-	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] [<CommonParameters>]
+	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] 
+	[<CommonParameters>]
 
     Write-ToLogFile.ps1 [-Message] <String[]> [-W] [-Component <String>] [-NoDate] [-DateFormat <String>] 
-	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] [<CommonParameters>]
+	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] 
+	[<CommonParameters>]
 
     Write-ToLogFile.ps1 [-Message] <String[]> [-E] [-Component <String>] [-NoDate] [-DateFormat <String>] 
-	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] [<CommonParameters>]
+	[-Show] [-LogFile <String>] [-Delimiter <String>] [-LogLevel <String>] [-NoLogHeader] 
+	[<CommonParameters>]
 
     Write-ToLogFile.ps1 [-Block] <Object[]> [-LogFile <String>] [-NoLogHeader] [<CommonParameters>]
 
